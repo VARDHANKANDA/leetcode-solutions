@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
