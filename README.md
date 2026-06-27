@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0162-find-peak-element](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
