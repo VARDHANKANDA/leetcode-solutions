@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -81,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
