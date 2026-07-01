@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
