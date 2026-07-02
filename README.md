@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
