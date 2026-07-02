@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0148-sort-list) |
+| [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -91,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 | [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
