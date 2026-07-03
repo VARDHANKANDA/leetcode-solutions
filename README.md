@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0162-find-peak-element](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 ## Math
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
