@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
