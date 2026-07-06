@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [1288-remove-covered-intervals](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
+| [1288-remove-covered-intervals](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
 | ------- |
