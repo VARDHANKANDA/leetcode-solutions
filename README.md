@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0162-find-peak-element](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0164-maximum-gap) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
