@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
