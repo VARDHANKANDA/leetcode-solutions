@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -135,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Breadth-First Search
 |  |
