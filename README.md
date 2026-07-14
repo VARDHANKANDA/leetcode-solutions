@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1331-rank-transform-of-an-array](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
