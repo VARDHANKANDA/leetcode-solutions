@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 | [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
