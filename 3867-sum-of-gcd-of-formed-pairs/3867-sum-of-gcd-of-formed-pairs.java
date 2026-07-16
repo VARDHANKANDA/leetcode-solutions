@@ -10,7 +10,7 @@ class Solution {
         Arrays.sort(prefixGcd);
         long ans = 0;
         int left = 0, right = n - 1;
-        while (left < right) {
+        while (left <right) {
             ans += gcd(prefixGcd[left], prefixGcd[right]);
             left++;
             right--;
