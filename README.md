@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
