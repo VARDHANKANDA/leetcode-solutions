@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/0561-array-partition) |
 | [1400-construct-k-palindrome-strings](https://github.com/VARDHANKANDA/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 ## Counting Sort
